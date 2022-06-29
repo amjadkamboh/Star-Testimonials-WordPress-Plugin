@@ -1,0 +1,19 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ .col-meta-holder {
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+}
+
+.col-meta-holder  input {
+    margin: 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+.col-meta-holder label {
+    width: 250px;
+}
