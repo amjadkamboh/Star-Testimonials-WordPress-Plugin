@@ -17,3 +17,61 @@
 .col-meta-holder label {
     width: 250px;
 }
+
+.header-wrap.wrap {
+    position: relative;
+    font-size: 24px;
+    color: #fff;
+    background: #000;
+    padding: 35px 20px;
+    line-height: 1.2;
+    font-weight: lighter;
+}
+.welcome-text-wrap.wrap h2 {
+color: #fff;
+}
+.banner-padd {
+    line-height: 1.2;
+    padding: 20px;
+    color: #fff;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
+.wpt-wrap-deah h2.section-head-adk {
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #fff;
+}
+.wpt-wrap-deah p {
+    font-size: 16px;
+}
+.welcome-text-wrap.wrap p{
+    max-width:800px;
+}
+.Available-text-wrap.banner-padd {
+    background: rgb(204,204,204);
+    background: linear-gradient(90deg, rgba(204,204,204,1) 0%, rgba(204,204,204,1) 35%, rgba(153,153,153,1) 100%);
+    text-align: center;
+    color: #000;
+}
+h2.section-head-adk.black-000 {
+    color: #000;
+}
+.Available-block-here-akd p {
+    font-size: 16px;
+}
+.Available-block-here-akd h3 {
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.Available-block-here-akd {
+    width: 10%;
+    background: #fff;
+    padding: 50px;
+    box-shadow: 0 0 50px rgba(0,0,0,0.2);
+    margin: 50px 1%;
+    border-radius: 10px;
+    display: inline-block;
+}

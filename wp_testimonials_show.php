@@ -80,3 +80,5 @@ function run_wp_testimonials_show() {
 
 }
 run_wp_testimonials_show();
+
+require_once plugin_dir_path( __FILE__ ) . 'admin/partials/wp_testimonials_show-admin-display.php';
